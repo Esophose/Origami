@@ -1,11 +1,7 @@
-Paper [![Build Status](https://papermc.io/ci/job/Paper-1.16/badge/icon)](https://papermc.io/ci/job/Paper-1.16/)
+Origami
 ===========
 
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
-
-
-**Support and Project Discussion:**
- - [IRC](https://irc.spi.gt/iris/?channels=paper) or [Discord](https://discord.gg/papermc)
+A fork of Paper containing my personal modifications (typically fixes).
 
 
 How To (Server Admins)
